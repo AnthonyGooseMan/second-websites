@@ -1,0 +1,23 @@
+body{
+    background-color:#8B0000;
+}
+
+h1{color:#F8F8FF;}
+p{color:#F8F8FF;
+font-size:20px;
+font-family: Arial, sans-serif, helvetica;}
+hr{
+    border: 1px solid #F8F8FF;
+}
+
+b{color:#000000;}
+
+#special-bold{color:#FFD700
+;}
+#ant{color:#FFA500;}
+
+#first{background-color: #bb6f0cb7;padding: 25px;
+    border:2px solid #8B0000; margin: 25px;}
+
+
+#second{background-color:#FF6347 ;}
